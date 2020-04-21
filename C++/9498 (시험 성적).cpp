@@ -5,7 +5,7 @@
 //int main()
 //{
 //	int N;
-//	cin >> N;
+//	cin >> N; 
 // 
 //	if (N >= 90 && N <= 100)
 //		cout << "A";
