@@ -45,9 +45,6 @@
     <ClCompile Include="2739 (구구단).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="15652 %28N과M 수열%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="10818 (최소,최대).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -108,9 +105,6 @@
     <ClCompile Include="2748(피보나치 수2).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="2579%28계단오르기,미완%29.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="10989 %28수 정렬하기3,미완%29 .cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -130,6 +124,57 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="프로그래머스.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10998 (AxB).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15650 %28N과M 2%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15652 %28N과M 4%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15651 %28N과M 3%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15649 %28N과M 1%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11651(좌표 정렬하기2).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1181(단어정렬).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2741 (N찍기).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10950(A+B -3).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10039(평균 점수).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2475(검증수).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4153(직각삼각형).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1764%28듣보잡 , 미완.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1463%281로 만들기%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11726(2xn 타일링).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9095(1,2,3더하기).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2579%28계단오르기%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
