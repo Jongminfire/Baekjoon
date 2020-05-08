@@ -1,2 +1,4 @@
-﻿  9095(1,2,3더하기).cpp
+﻿  크레인 인형뽑기.cpp
+c:\users\이종민\desktop\종민\20-1\백준\c++\크레인 인형뽑기.cpp(12): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\이종민\desktop\종민\20-1\백준\c++\크레인 인형뽑기.cpp(14): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   C++.vcxproj -> C:\Users\이종민\Desktop\종민\20-1\백준\C++\Debug\C++.exe

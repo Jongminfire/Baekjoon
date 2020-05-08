@@ -138,6 +138,8 @@
     <ClCompile Include="11047(동전 0).cpp" />
     <ClCompile Include="1138%28한 줄로 서기%29.cpp" />
     <ClCompile Include="11399 (ATM).cpp" />
+    <ClCompile Include="1149%28RGB거리,미완%29.cpp" />
+    <ClCompile Include="1152(단어의 개수).cpp" />
     <ClCompile Include="11650 (좌표 정렬하기).cpp" />
     <ClCompile Include="11651(좌표 정렬하기2).cpp" />
     <ClCompile Include="11726(2xn 타일링).cpp" />
@@ -146,12 +148,13 @@
     <ClCompile Include="15649 %28N과M 1%29.cpp" />
     <ClCompile Include="15650 %28N과M 2%29.cpp" />
     <ClCompile Include="15651 %28N과M 3%29.cpp" />
-    <ClCompile Include="1764%28듣보잡 , 미완.cpp" />
+    <ClCompile Include="1764%28듣보잡%29.cpp" />
     <ClCompile Include="2475(검증수).cpp" />
+    <ClCompile Include="2675(문자열반복).cpp" />
     <ClCompile Include="2741 (N찍기).cpp" />
     <ClCompile Include="4153(직각삼각형).cpp" />
     <ClCompile Include="9095(1,2,3더하기).cpp" />
-    <ClCompile Include="프로그래머스.cpp" />
+    <ClCompile Include="9461(파도반수열).cpp" />
     <ClCompile Include="1330 (두 수 비교) .cpp" />
     <ClCompile Include="1427(소트인사이드) .cpp" />
     <ClCompile Include="14681 (사분면고르기).cpp" />
@@ -177,6 +180,7 @@
     <ClCompile Include="8393(합).cpp" />
     <ClCompile Include="9012(괄호).cpp" />
     <ClCompile Include="9498 (시험 성적).cpp" />
+    <ClCompile Include="크레인 인형뽑기.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
