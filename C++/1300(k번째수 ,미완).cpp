@@ -1,25 +1,23 @@
 //#include <iostream>
 //#include <vector>
 //#include <algorithm>
+//#include <string>
 //
 //using namespace std;
 //
 //int main()
 //{
-//	int N,k;
-//	cin >> N >> k;
+//	int N, K;
+//	cin >> N >> K;
 //
-//	vector<int> v;
+//	long long low = 1;
+//	long long high = N * N;
 //
-//	for (int i = 1;i <= N;i++)
-//		for (int j = 1;j <= N;j++)
-//			v.push_back(i*j);
-//
-//	sort(v.begin(), v.end());
-//
-//	cout << v[k - 1] << "\n";
+//	while (low <= high)
+//	{
+//		long long mid = (low + high) / 2;
+//	}
 //
 //	return 0;
 //}
 //
-//// 이분탐색 공부하기

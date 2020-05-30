@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\2019 카카오 겨울인턴십">
       <UniqueIdentifier>{d08ba64c-ffef-4a15-8e8b-fdccf4f6a658}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\알고리즘">
+      <UniqueIdentifier>{2965d6e4-283d-4a14-a834-c7f7855ec0ab}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2557.cpp">
@@ -108,9 +111,6 @@
     <ClCompile Include="2748(피보나치 수2).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="10989 %28수 정렬하기3,미완%29 .cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="10817 (세 수).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -175,9 +175,6 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="9461(파도반수열).cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1149%28RGB거리,미완%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="1764%28듣보잡%29.cpp">
@@ -256,6 +253,102 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="10809(알파벳 찾기).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="이분탐색.cpp">
+      <Filter>소스 파일\알고리즘</Filter>
+    </ClCompile>
+    <ClCompile Include="5597(과제 안내신분).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2563(색종이).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1748(수 이어 쓰기).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1789(수들의합).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1756%28피자굽기,pop구현 미완%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1756%28피자굽기%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2869(달팽이는 올라가고 싶다).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1149%28RGB거리%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10989 %28수 정렬하기3%29 .cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11727(2xn타일링 2).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10816(숫자 카드2).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10815(숫자카드).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1654%28랜선 자르기%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2805(나무자르기).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2512 %28예산%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1620(나는야 포켓몬 마스터 이다솜).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2343%28기타레슨, X%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1431(시리얼 번호).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11279(최대 힙).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1927(최소힙).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11286(절대값 힙).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1715(카드 정렬하기).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10845(큐).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1655%28가운데를 말해요, X%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1766%28문제집,X%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2075(N번째 큰수).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="17219(비밀번호 찾기).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9375%28패션왕 신해빈,X%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2847.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2193(이친수).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1912(연속합).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
