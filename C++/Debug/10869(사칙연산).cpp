@@ -1,0 +1,15 @@
+#include <iostream>
+
+using namespace std;
+
+int main(){
+    int A,B;
+    cin >> A >> B;
+    
+    cout << A+B << "\n" << A-B << "\n" << A*B << "\n" << A/B << "\n" << A%B << "\n";
+    
+    return 0;
+}
+
+// https://www.acmicpc.net/problem/10869
+// 사칙연산 값 출력 문제
