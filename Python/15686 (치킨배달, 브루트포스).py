@@ -4,7 +4,7 @@ n, m = map(int, input().split())
 board = [list(map(int, input().split())) for _ in range(n)]
 house = []
 chicken = []
-ans = 2500
+ans = int(1e9)
 
 for i in range(n):
     for j in range(n):
@@ -14,7 +14,7 @@ for i in range(n):
             chicken.append((i, j))
 
 for c in combinations(chicken, m):
-    temp = [2500 for _ in range(len(house))]
+    temp = [2500 for _ in range(len(house))] # 최대 치킨 거리는 50x50
 
     for i, (hx, hy) in enumerate(house):
         for cx, cy in c:
