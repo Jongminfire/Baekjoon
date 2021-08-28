@@ -10,9 +10,7 @@ def check(num):
 
   return temp
 
-while True:
-  if check(ans+n) <= k:
-    break
+while check(ans+n) > k:
   ans += 1
 
 print(ans)
